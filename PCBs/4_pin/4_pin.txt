@@ -1,0 +1,3 @@
+PCBs for 4-pin holder:
+  5 mm chip
+  7 mm chip
