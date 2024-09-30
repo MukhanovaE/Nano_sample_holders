@@ -1,4 +1,0 @@
-8 pins holder:
-  5 mm chip (original design of 2023)
-  7 mm chip
-  
